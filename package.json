@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/gmramarao/confluence/issues"
   },
-  "homepage": "https://github.com/gmramarao/confluence#readme"
+  "homepage": "https://github.com/gmramarao/confluence#readme",
+  "dependencies": {
+    "atlassian-confluence": "^2.3.0",
+    "confluence-api": "^1.3.0",
+    "confluence-restapi": "^1.0.1",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "install": "^0.12.1",
+    "npm": "^6.2.0"
+  }
 }
