@@ -1,0 +1,19 @@
+{
+  "name": "confluence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmramarao/confluence.git"
+  },
+  "author": "Rama Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmramarao/confluence/issues"
+  },
+  "homepage": "https://github.com/gmramarao/confluence#readme"
+}
